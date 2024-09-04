@@ -27,7 +27,4 @@ Form5:
 
    It likely serves a specific feature related to the bank account, such as viewing transaction history or managing loans.
 
-![Form 1](images/form1.png)
-![Form 2](images/form2.png)
-![Form 3](images/form3.png)
-![Form 4](images/form4.png)
+
